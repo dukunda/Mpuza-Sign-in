@@ -1,7 +1,7 @@
 # Sign-Up Page UI Reallocation
 
 ##  Preview
-![Final UI Screenshot](screenshot.png)
+![Final UI Screenshot](image.png)
 
 ##  Project Objective
 ... (rest of the content)
