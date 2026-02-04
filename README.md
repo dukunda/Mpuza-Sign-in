@@ -4,9 +4,6 @@
 ![Final UI Screenshot](image.png)
 
 ##  Project Objective
-... (rest of the content)
-
-##  Project Objective
 [cite_start]The goal of this assignment is to translate a UI/UX mockup into real code using only HTML and CSS[cite: 1, 10]. [cite_start]The focus is on structure, layout, spacing, typography, and visual accuracy rather than functionality[cite: 11].
 
 ##  Technologies Used
